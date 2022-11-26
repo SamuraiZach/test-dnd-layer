@@ -1,4 +1,6 @@
+/* eslint-disable jsx-a11y/no-redundant-roles */
 import type { FC } from 'react'
+import React from 'react'
 import { useCallback, useState } from 'react'
 
 import { Container } from './Container'
