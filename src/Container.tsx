@@ -9,8 +9,8 @@ import type { DragItem } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 
 const styles: CSSProperties = {
-  width: 300,
-  height: 300,
+  width: 1200,
+  height: 750,
   border: '1px solid black',
   position: 'relative',
 }
@@ -85,3 +85,4 @@ export const Container: FC<ContainerProps> = ({ hideSourceOnDrag }) => {
     </div>
   )
 }
+//<img src={title} width="60" height="60" alt={title} />
