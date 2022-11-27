@@ -1,0 +1,12 @@
+
+> react-dnd-example-19@0.0.0 test
+> react-scripts test --coverage
+
+No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In /home/runner/work/test-dnd-layer/test-dnd-layer
+  6 files checked.
+  testMatch: /home/runner/work/test-dnd-layer/test-dnd-layer/src/**/__tests__/**/*.{js,jsx,ts,tsx}, /home/runner/work/test-dnd-layer/test-dnd-layer/src/**/*.{spec,test}.{js,jsx,ts,tsx} - 0 matches
+  testPathIgnorePatterns: /node_modules/ - 6 matches
+  testRegex:  - 0 matches
+Pattern:  - 0 matches

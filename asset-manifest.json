@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/test-dnd-layer/static/js/main.e5050246.js",
+    "static/media/worldmap2.png": "/test-dnd-layer/static/media/worldmap2.f4bcaac4685af0173335.png",
+    "index.html": "/test-dnd-layer/index.html",
+    "main.e5050246.js.map": "/test-dnd-layer/static/js/main.e5050246.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5050246.js"
+  ]
+}
